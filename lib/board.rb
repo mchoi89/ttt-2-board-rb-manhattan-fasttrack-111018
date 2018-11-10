@@ -1,5 +1,5 @@
 # Define the variable board below.
-var = board
+def (board)
   board = [" "," "," "," "," "," "," "," "," "]
   board [0]
   board [1]
