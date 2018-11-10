@@ -1,4 +1,8 @@
 # Define the variable board below.
 def board
-  row = [" "," "," "]
-  
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
